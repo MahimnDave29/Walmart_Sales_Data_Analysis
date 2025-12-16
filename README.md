@@ -16,8 +16,8 @@ A comprehensive Power BI dashboard analyzing Walmart's retail sales performance 
 Sales remained relatively stable throughout 2023 with notable patterns:
 - **Peak Month:** December (370K) - holiday season surge
 - **Strongest Quarter:** Q1 (Jan-Mar: ~340K average)
-- **Weakest Month:** November ($260K)
-- **Average Monthly Sales:** $316K
+- **Weakest Month:** November (260K)
+- **Average Monthly Sales:** 316K
 
 ### Discounted vs. Regular Sales
 Monthly breakdown shows consistent discount strategy:
