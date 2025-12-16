@@ -5,7 +5,7 @@ A comprehensive Power BI dashboard analyzing Walmart's retail sales performance 
 ## Key Performance Indicators
 
 ### Overall Metrics (2023)
-- **Total Sales:** $1.90M
+- **Total Sales:** 1.90M
 - **Total Quantity Sold:** 7,529 units
 - **Average Discount:** 3.67%
 - **Date Range:** January 1, 2023 - December 31, 2023
@@ -14,17 +14,17 @@ A comprehensive Power BI dashboard analyzing Walmart's retail sales performance 
 
 ### Monthly Sales Trends
 Sales remained relatively stable throughout 2023 with notable patterns:
-- **Peak Month:** December ($370K) - holiday season surge
-- **Strongest Quarter:** Q1 (Jan-Mar: ~$340K average)
+- **Peak Month:** December (370K) - holiday season surge
+- **Strongest Quarter:** Q1 (Jan-Mar: ~340K average)
 - **Weakest Month:** November ($260K)
 - **Average Monthly Sales:** $316K
 
 ### Discounted vs. Regular Sales
 Monthly breakdown shows consistent discount strategy:
-- Average discounted sales: ~$150K per month
+- Average discounted sales: ~150K per month
 - Discount penetration: ~47% of total sales
-- Highest discounted sales: January-March ($170K)
-- Lowest discounted sales: June ($130K)
+- Highest discounted sales: January-March (170K)
+- Lowest discounted sales: June (130K)
 
 ## Customer Segmentation
 
@@ -37,18 +37,18 @@ The dashboard tracks four distinct customer segments:
 ## Product Performance
 
 ### Top 5 Products by Sales
-1. **Power Tools:** $93K
-2. **Hardwood:** $81K
-3. **Dryers:** $78K
-4. **Workbenches:** $77K
-5. **Landscaping Supplies:** $74K
+1. **Power Tools:** 93K
+2. **Hardwood:** 81K
+3. **Dryers:** 78K
+4. **Workbenches:** 77K
+5. **Landscaping Supplies:** 74K
 
 ### Bottom 5 Products by Sales
-1. **Outdoor Furniture:** $32K (lowest)
-2. **Drywall:** $41K
-3. **Tile:** $43K
-4. **Bulbs:** $43K
-5. **Cement:** $44K
+1. **Outdoor Furniture:** 32K (lowest)
+2. **Drywall:** 41K
+3. **Tile:** 43K
+4. **Bulbs:** 43K
+5. **Cement:** 44K
 
 ### Product Insights
 - Power tools dominate with 2.9x sales of lowest performer
@@ -96,7 +96,7 @@ The dashboard tracks four distinct customer segments:
 ### Product Strategy
 - Power tools and hardware drive revenue - expand inventory
 - Building materials underperform - review pricing/positioning
-- Top 5 products account for ~$400K (21% of total sales)
+- Top 5 products account for ~400K (21% of total sales)
 
 ### Discount Effectiveness
 - 3.67% average discount maintains healthy margins
