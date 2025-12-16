@@ -62,7 +62,7 @@ The dashboard tracks four distinct customer segments:
 2. **Los Angeles** - Strong metropolitan performance
 3. **Chicago** - Consistent third-place performer
 
-## Technologies Used
+## Tech Stack
 - **Python** - To do data preprocessing
 - **MSSQL** - Storing the data into the database
 - **Power BI Desktop** - Dashboard development and visualization
