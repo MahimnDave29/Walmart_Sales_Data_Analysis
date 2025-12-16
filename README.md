@@ -152,7 +152,7 @@ This project demonstrates:
 ---
 
 **Project Type:** Retail Analytics | Business Intelligence Dashboard  
-**Tools:** Power BI, DAX  
+**Tools:** Python, MSSQL, Power BI, DAX  
 **Domain:** Retail Sales, Customer Analytics  
 **Industry:** Home Improvement Retail  
 **Focus Areas:** Sales Optimization, Product Performance, Customer Segmentation  
