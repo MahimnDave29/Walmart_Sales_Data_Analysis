@@ -21,8 +21,8 @@ Sales remained relatively stable throughout 2023 with notable patterns:
 
 ### Discounted vs. Regular Sales
 Monthly breakdown shows consistent discount strategy:
-- Average discounted sales: ~150K per month
-- Discount penetration: ~47% of total sales
+- Average discounted sales: approx. 150K per month
+- Discount penetration: approx. 47% of total sales
 - Highest discounted sales: January-March (170K)
 - Lowest discounted sales: June (130K)
 
@@ -96,7 +96,7 @@ The dashboard tracks four distinct customer segments:
 ### Product Strategy
 - Power tools and hardware drive revenue - expand inventory
 - Building materials underperform - review pricing/positioning
-- Top 5 products account for ~400K (21% of total sales)
+- Top 5 products account for approx. 400K (21% of total sales)
 
 ### Discount Effectiveness
 - 3.67% average discount maintains healthy margins
@@ -119,17 +119,6 @@ This dashboard enables:
 - **Finance:** Revenue forecasting and discount impact analysis
 
 
-## Future Enhancements
-
-Potential improvements:
-- Year-over-year comparison analysis
-- Customer lifetime value (CLV) metrics
-- Inventory turnover analysis
-- Predictive sales forecasting
-- Profit margin analysis by product/segment
-- Regional heatmap visualization
-- Seasonal trend decomposition
-
 ## Project Highlights
 
 This project demonstrates:
@@ -151,9 +140,8 @@ This project demonstrates:
 
 ---
 
-**Project Type:** Retail Analytics | Business Intelligence Dashboard  
+**Project Type:** Retail Analytics, Business Intelligence Dashboard  
 **Tools:** Python, MSSQL, Power BI, DAX  
-**Domain:** Retail Sales, Customer Analytics  
-**Industry:** Home Improvement Retail  
+**Domain:** Retail Sales, Customer Analytics   
 **Focus Areas:** Sales Optimization, Product Performance, Customer Segmentation  
 **Skills Demonstrated:** BI Development, Data Visualization, Retail Strategy Analysis
