@@ -108,40 +108,6 @@ The dashboard tracks four distinct customer segments:
 - Top 3 stores likely drive 40-50% of total revenue
 - Opportunity to analyze underperforming locations
 
-## Use Cases
+## Tech Stack
+Python, PowerBI
 
-This dashboard enables:
-- **Sales Managers:** Track performance against targets
-- **Product Teams:** Identify inventory optimization opportunities
-- **Marketing:** Design targeted campaigns by customer segment
-- **Store Operations:** Benchmark store performance
-- **Executive Leadership:** Strategic planning and resource allocation
-- **Finance:** Revenue forecasting and discount impact analysis
-
-
-## Project Highlights
-
-This project demonstrates:
-- Retail analytics expertise
-- Multi-dimensional data analysis
-- Customer segmentation strategy
-- Product portfolio management
-- Geographic performance analysis
-- Time-series trend identification
-- Business intelligence storytelling
-
-## Data Dimensions
-
-- **Temporal:** Daily/monthly sales patterns (2023)
-- **Customer:** Four distinct segments
-- **Product:** 10+ product categories tracked
-- **Geographic:** Multi-city store network
-- **Financial:** Sales, discounts, quantity metrics
-
----
-
-**Project Type:** Retail Analytics, Business Intelligence Dashboard  
-**Tools:** Python, MSSQL, Power BI, DAX  
-**Domain:** Retail Sales, Customer Analytics   
-**Focus Areas:** Sales Optimization, Product Performance, Customer Segmentation  
-**Skills Demonstrated:** BI Development, Data Visualization, Retail Strategy Analysis
